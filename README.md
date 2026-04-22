@@ -22,20 +22,16 @@ I design and build **high-performance Android applications** using modern archit
 ## 🧩 Tech Stack
 
 ### 🧠 Android & Architecture
-Kotlin • Jetpack Compose • MVVM • MVI • Clean Architecture • Multi-module • Repository Pattern
+Kotlin • Java • Jetpack Compose • MVVM
 
 ### ⚙️ Core Libraries
-Coroutines • Flow • Hilt • Dagger • Room • Retrofit • ExoPlayer • DataStore
+Coroutines • Flow • Hilt • Dagger • Retrofit
 
 ### 🧪 Testing & Quality
-JUnit • Espresso • Mockito • Unit Testing • TDD • CI-based Quality Gates
-
-### 🤖 AI & Intelligent Systems
-AI solution integration (TensorFlow Lite, ML Kit, partner APIs) • Computer Vision evaluation • Predictive analytics coordination
+JUnit • Mockito • Unit Testing
 
 ### 🚀 DevOps & Tooling
-GitHub Actions • Bitrise • Gradle • Firebase Suite (Crashlytics, Analytics, Remote Config)  
-*Previously worked with Jenkins during Globo Media Group projects.*
+Bitrise • Gradle • Firebase Suite (Crashlytics, Analytics, Remote Config)  
 
 ---
 
@@ -46,7 +42,7 @@ GitHub Actions • Bitrise • Gradle • Firebase Suite (Crashlytics, Analytics
 Working with clients such as **Zello** and **Hulu (Disney+)**, leading Android modernization and revenue-focused initiatives.
 
 ### **Previous**
-- **Keypad DS** — *Founder & Mobile Architect* (2021) | Consulting for SalesRabbit, AdventHealth, and Pinterest.
+- **BetterEngineer** — *Android Engineer (Contract)* (2021) | Consulting for Zello, AdventHealth, Disney+, and Pinterest.
 - **AB InBev** — *Mobile Tech Lead* (2020–2021)  
 - **BeBlue** — *Android Developer* (2019–2020)  
 - **Globo Media Group** — *Android Developer* (2017–2019)  
